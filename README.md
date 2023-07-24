@@ -27,7 +27,7 @@ I am a **Coder** and is pursuing my degree in **BCA**:mortar_board:. I am into P
 * Secured 1st place in College's Final Year Project. -->
 
 <!-- - ⚡ I’m currently working as SDE at Amygb.ai(Bengaluru).  -->
-- 💬 Ask me about <b>Java, C, Python, FullStack, My-Sql.</b>
+- 💬 Ask me about <b>Java, C, Python, FullStack, My-Sql</b>
 <!-- - <a href = "https://drive.google.com/drive/folders/1hrbXZar6EKMkfdqCs3P2hkoe_0im3Nie?usp=sharing" target="_blank"><b>RESUME</b>(Not the updatedOne)</a>. -->
   
 #### 👨🏻‍💻 Languages & Tech <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/> <br />
